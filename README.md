@@ -12,6 +12,7 @@
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 </p>
+<img src="https://github.com/w4terbomb/w4terbomb/blob/output/github-contribution-grid-snake.svg">
 
 
 
